@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 
 /**
- *
+ *changes on 23 sep
  * @author Ronak
  */
 public class HelloF26 {
