@@ -5,7 +5,7 @@
 package hellof26;
 
 /**
- *
+ *To show pull operation
  * @author Ronak
  */
 public class Student {
